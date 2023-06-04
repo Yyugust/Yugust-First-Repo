@@ -1,2 +1,2 @@
 # Yyugust.github.io
-Yy的
+Yy’s learning record
